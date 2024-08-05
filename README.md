@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RockinProjex
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Arch Linux
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on NOTHING. I go solo.
 - 📫 How to reach me - I'm u/Excellent-Owl-4857 on Reddit and you can contact my email, rockinprojex@gmail.com
 - 😄 Pronouns: he/him/his
