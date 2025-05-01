@@ -14,6 +14,6 @@ Hello and welcome, users and developers alike. I am RockinProjex, originally fou
 
 [ON HOLD] RockinProjex - Free, unblocked games and content, for school, work, etc.
 
-[ONGOING, BUT SLOW] New Super Mario Bros. Wii: Retro Rewind - My NSMBW mod. It will contain every mainline 2D Mario platformer game's levels, with extras from other mods of this game.
+[ONGOING, BUT SLOW] New Super Mario Bros. Wii: Retro Rewind - My NSMBW mod. It will contain every mainline 2D Mario platformer game's levels, with extras from other mods of this game. For details, as this isn't on this profile, see https://github.com/Retropix-NSMBW
 
 [CURRENT] BiTrophy - A multiplatform app that tracks your retro (And new!) achievements from a wide range of hosts. Including RetroAchievements, Sony, Steam and Microsoft achievement platforms. It has a sleek User Interface with extensive Theme and Add-on support for maximum customisability. Its non-core features are opt-in, reducing base app size, so lower end hardware can support your game collection. Tracks not only achievements, but completions, game time and other stats, too! No matter whether it's NES Zelda or The Escapists, Super Mario Bros. or Astro's Playroom, BiTrophy tracks it. I'll be real with you here - this is a school project. However I will continue to support this app for years to come! Happy gaming, and keep on tracking the bits, gamers!
