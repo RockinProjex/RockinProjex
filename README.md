@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make a multiplatform app, called BiTrophy.
 - 💞️ I’m willing to help with any issues you have with my projects.
 - 📫 How to reach me - I'm u/Excellent-Owl-4857 on Reddit and you can contact my email, rockinprojex@gmail.com.
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: any/all but neutral they/them is preferred
 - ⚡ Fun fact: I thought about making a Discord client mod.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
